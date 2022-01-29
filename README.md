@@ -4,7 +4,7 @@ developing
 
 ## Ready to start with HTML emails? 
 
-Does the development of HTML emails sound daunting? Are you ready to roll up sleeves and dive in? Here are some resources that helped me on my quest - you might find useful, too.
+Does the development of HTML emails sound daunting? Are you ready to roll up sleeves and dive in? Here are some resources that helped me on my quest - you might find them helpful, too.
 
 Good luck with your emails - and don’t forget to test everything.
 
@@ -16,6 +16,6 @@ Good luck with your emails - and don’t forget to test everything.
 * CampaignMonitor’s [Guide to Web Fonts](https://www.campaignmonitor.com/resources/guides/web-fonts-in-email/)
 * CampaignMonitor’s [Guide to CSS Support in Email](https://www.campaignmonitor.com/css/)
 * [MJML](https://mjml.io/) 
-* Nicolac Gariner's [How To Make Responsive HTML Email Coding Easy](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
+* Nicolas Garnier's [How To Make Responsive HTML Email Coding Easy](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
 
 
